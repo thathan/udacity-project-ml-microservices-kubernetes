@@ -1,4 +1,4 @@
-[![thathan](https://circleci.com/gh/thathan/microservices-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/thathan/udacity-project-ml-microservices-kubernetes)
+[![thathan](https://circleci.com/gh/thathan/udacity-project-ml-microservices-kubernetes.svg?style=svg)](https://app.circleci.com/pipelines/github/thathan/udacity-project-ml-microservices-kubernetes)
 
 # Housing prices predictor
 
